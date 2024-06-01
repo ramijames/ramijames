@@ -28,8 +28,8 @@ Right now I'm focused on building:
 The core technologies that I use to create my works are:
 
 - Front-end: Vue or Nuxt
-- Auth: Firebase or Okta
-- Backend: Express
+- Auth: Firebase or Okta, or preferably Ruby on Rails
+- Backend: Express, or preferably Ruby on Rails
 - Database: Postgres or CouchDB
 - Deployment: Netlify or Digital Ocean
 
