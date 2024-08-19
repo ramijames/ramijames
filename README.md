@@ -12,7 +12,7 @@ Some of my more popular pieces are:
 
 ## Say hello!
 
-I'm actively seeking design and front-end projects, so reach out to [rami@ramijames.com](mailto:rami@ramijames.com) or say hello on [Twitter](https://twitter.com/ramijames)
+I'm actively seeking design and front-end projects, so reach out to [ramijames@gmail.com](mailto:ramijames@gmail.com) or say hello on [Twitter](https://twitter.com/ramijames)
 
 ## Current Projects
 
@@ -21,6 +21,7 @@ Typically, I am working on many things concurrently. I also like to read three o
 Right now I'm focused on building:
 
 - [ramijames.com](https://www.ramijames.com/) - My personal website
+- [Vewrite] - A workflow management tool for technical writers
 - [CrispTools](https://crisptools.dev/) - CrispTools is a set of free online tools for designers and developers
 - [Random Sandwich](https://random-sandwich.com/) - A blow-off-steam project that keeps me amused
 
@@ -28,9 +29,7 @@ Right now I'm focused on building:
 The core technologies that I use to create my works are:
 
 - Front-end: Vue or Nuxt
-- Auth: Firebase or Okta, or preferably Ruby on Rails
-- Backend: Express, or preferably Ruby on Rails
-- Database: Postgres or CouchDB
+- Auth/Db: Supabase
 - Deployment: Netlify or Digital Ocean
 
 These days I work primarily in Javascript, but have used Ruby and PHP in the past.
