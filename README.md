@@ -21,7 +21,7 @@ Typically, I am working on many things concurrently. I also like to read three o
 Right now I'm focused on building:
 
 - [ramijames.com](https://www.ramijames.com/) - My personal website
-- [Vewrite] - A workflow management tool for technical writers
+- [Vewrite](https://github.com/ramijames/vewrite) - A workflow management tool for technical writers
 - [CrispTools](https://crisptools.dev/) - CrispTools is a set of free online tools for designers and developers
 - [Random Sandwich](https://random-sandwich.com/) - A blow-off-steam project that keeps me amused
 
