@@ -4,7 +4,9 @@ My name is Rami James and I'm a designer, product specialist, and developer.
 
 ## Say hello!
 
-I'm actively seeking design and front-end projects, so reach out to [ramijames@gmail.com](mailto:ramijames@gmail.com) or say hello on [Twitter](https://twitter.com/ramijames)
+I'm actively seeking design and front-end projects, so reach out to [ramijames@gmail.com](mailto:ramijames@gmail.com) or say hello on [Twitter](https://twitter.com/ramijames), [BlueSky](https://bsky.app/profile/ramijames.bsky.social), or [Threads](https://www.threads.net/@itsramijames).
+
+If you're interested, you can see my [LinkedIn portfolio](https://www.linkedin.com/in/rami-james/).
 
 ## Current Projects
 
