@@ -34,5 +34,6 @@ The core technologies that I use to create my works are:
 - Front-end: Nuxt 3, Vue
 - Auth/Db: Supabase
 - Deployment: Netlify
+- MacOS: Electron
 
 These days I work primarily in Javascript, but have used Ruby and PHP in the past.
