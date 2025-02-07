@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rami James and I'm a designer, product specialist, and developer.
+My name is Rami James and I'm a developer, advocate, product specialist, and devrel engineer.
 
 ## Say hello!
 
