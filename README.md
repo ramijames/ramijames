@@ -16,7 +16,7 @@ Right now I'm focused on building:
 
 - [ramijames.com](https://www.ramijames.com/) - My personal website
 - [Miserably Unemployed](https://www.miserablyunemployed.com/) - Huge aggregator job site + economics data + cv tailoring service + ai chat
-- [SessionSight] - CRO + Marketing automation tool
+- [SessionSight](https://sessionsight.com/) - CRO + Marketing automation tool
 
 ## Thoughts
 
