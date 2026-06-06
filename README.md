@@ -15,8 +15,8 @@ Typically, I am working on many things concurrently. I also like to read three o
 Right now I'm focused on building:
 
 - [ramijames.com](https://www.ramijames.com/) - My personal website
-- [Vewrite](https://github.com/ramijames/vewrite) - A workflow management tool for technical writers
-- [Supabase + Nuxt 3 Starter](https://github.com/ramijames/supabase-nuxt3-starter) - An easy to use starter for Supabase + Nuxt 3
+- [Miserably Unemployed](https://www.miserablyunemployed.com/) - Huge aggregator job site + economics data + cv tailoring service + ai chat
+- [SessionSight] - CRO + Marketing automation tool
 
 ## Thoughts
 
@@ -31,9 +31,9 @@ Some of my more popular pieces are:
 ## Tech Stack
 The core technologies that I use to create my works are:
 
-- Front-end: Nuxt 3, Vue
-- Auth/Db: Supabase
-- Deployment: Netlify
-- MacOS: Electron
+- Front-end: Nuxt 3, Vue, Svelte
+- Auth/Db: Supabase, Mongo, Postgres
+- Deployment: Netlify, DigitalOcean, Mongo Atlas
+- MacOS: Electron, Swift
 
 These days I work primarily in Javascript, but have used Ruby and PHP in the past.
